@@ -23,7 +23,7 @@ var menuCmd = &cobra.Command{
 			fmt.Println("2) Spotless apply")
 			fmt.Println("3) Verify")
 			fmt.Println("4) Dependency tree")
-			fmt.Println("5) Instructions about java instalation")
+			fmt.Println("5) Instructions about java installation")
 			fmt.Println("6) Manual instructions")
 			fmt.Println("7) Exit")
 			fmt.Print("Choose an option: ")
