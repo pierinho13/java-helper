@@ -3,12 +3,12 @@ package cmd
 import (
 	"github.com/spf13/cobra"
 
-	"github.com/pierinho13/doodle-java/internal/runner"
+	"github.com/pierinho13/java-helper/internal/runner"
 )
 
 var verifyCmd = &cobra.Command{
 	Use:   "verify",
-	Short: "Run mvn verify with the required Doodle flags",
+	Short: "Run mvn verify with the required local flags",
 	RunE: func(cmd *cobra.Command, args []string) error {
 		return runner.Run(
 			"mvn",

@@ -8,7 +8,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/pierinho13/doodle-java/internal/runner"
+	"github.com/pierinho13/java-helper/internal/runner"
 )
 
 var javaCmd = &cobra.Command{

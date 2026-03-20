@@ -17,7 +17,7 @@ var menuCmd = &cobra.Command{
 
 		for {
 			fmt.Println()
-			fmt.Println("doodle-java")
+			fmt.Println("java-helper")
 			fmt.Println("-----------")
 			fmt.Println("1) Java version hints")
 			fmt.Println("2) Spotless apply")

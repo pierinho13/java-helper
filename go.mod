@@ -1,4 +1,4 @@
-module github.com/pierinho13/doodle-java
+module github.com/pierinho13/java-helper
 
 go 1.25.0
 

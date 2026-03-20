@@ -1,1 +1,1 @@
-# doodle-java
+# java-helper
